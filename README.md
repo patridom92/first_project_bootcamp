@@ -1,1 +1,1 @@
-First projects from Data Science Bootcamp
+First projects from the Data Science Bootcamp I did
